@@ -1,0 +1,4 @@
+rootProject.name = 'TestActiveMq'
+include 'producer'
+include 'consumer'
+

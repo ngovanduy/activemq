@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestActiveMq.iml" filepath="$PROJECT_DIR$/.idea/modules/TestActiveMq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestActiveMq_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestActiveMq_main.iml" group="TestActiveMq" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestActiveMq_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TestActiveMq_test.iml" group="TestActiveMq" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consumer/consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/consumer/consumer.iml" group="consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/producer/producer.iml" filepath="$PROJECT_DIR$/.idea/modules/producer/producer.iml" group="producer" />
+    </modules>
+  </component>
+</project>
